@@ -1,0 +1,46 @@
+body{
+     padding: 100px;
+}
+.login-area{
+    margin-top: 100px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px  10px gray;
+}
+#transection-area{
+    display: none;
+}
+
+.withdraw{
+    background-color: blue;
+  
+}
+
+.balance{
+   
+    background-color: orange;
+}
+.deposit{
+    background-color: red;
+  
+}
+.status{
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+    margin: 0px 20px;
+}
+#first-part{
+    box-shadow: 5px 5px 10px gray;
+    margin: 0px 50px;
+    padding: 20px 20px 20px 20px;
+}
+#second-part{
+    box-shadow: 5px 5px 10px gray;
+    margin: 0px 50px;
+    padding: 20px 20px 20px 20px;
+}
+.lower-part{
+    margin-top: 150px;
+    margin-right: 100px;
+}
